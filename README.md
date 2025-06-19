@@ -1,1 +1,2 @@
-This directory contains codes related to Megastructures
+This directory contains codes related to Megastructures.
+All the codes are here.
